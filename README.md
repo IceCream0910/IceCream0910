@@ -5,10 +5,7 @@
 </p>
 
 ## 안녕하세요👋&nbsp;</br>
-### 새로움에 끊임없이 도전하는, 저는 윤태인입니다.
-### 같이의 가치를 이해하며, 아이디어로 세상을 더 나은 곳으로 변화시키고 싶습니다.
-  
-![Delta's github stats](https://github-readme-stats.vercel.app/api?username=IceCream0910&count_private=false&show_icons=true)
+### 새로움에 끊임없이 도전하는, 저는 윤태인입니다
 
 ### 📋 Projects
 <a href="https://github.com/IceCream0910/sungil-meal-app" target="_blank" width="100%"><img src="https://i.imgur.com/NPKuVlM.png"></a>

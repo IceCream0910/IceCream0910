@@ -1,9 +1,3 @@
-<p>
-  <a href="https://icecream0910.github.io" target="_blank"><img src="https://img.shields.io/badge/Pages-DD0B78?style=flat-square&logo=About.me&logoColor=white"/></a>
-  <a href="https://icecream0910.github.io/blog" target="_blank"><img src="https://img.shields.io/badge/Blog-1DA1F2?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:icecream2370@kakao.com" target="_blank"><img src="https://img.shields.io/badge/icecream2370@kakao.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
-
 ## 안녕하세요👋&nbsp;</br>
 ### 새로움에 끊임없이 도전하는, 저는 윤태인입니다
 

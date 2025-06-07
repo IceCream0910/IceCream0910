@@ -2,7 +2,7 @@
 
 I'm interested in
 <p>
-<img src="https://img.shields.io/badge/Web-333333.svg?&style=for-the-badge&logo=google chrome"/>
+<img src="https://img.shields.io/badge/Web-333333.svg?&style=for-the-badge&logo=google+chrome"/>
 <img src="https://img.shields.io/badge/Android-333333.svg?&style=for-the-badge&logo=android"/>
 </p>
 

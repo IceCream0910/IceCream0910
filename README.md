@@ -16,7 +16,7 @@ And I have experience in
 <img src="https://img.shields.io/badge/Kotlin-333333.svg?&style=for-the-badge&logo=kotlin"/>
 </p>
 
-[see my projects](https://yuntae.in/#projects)
+[see my projects](https://yuntae.in/projects)
 
 
 <br/>

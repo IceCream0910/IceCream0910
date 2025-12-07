@@ -16,15 +16,7 @@ And I have experience in
 <img src="https://img.shields.io/badge/Kotlin-333333.svg?&style=for-the-badge&logo=kotlin"/>
 </p>
 
-### Projects
-<a href="https://github.com/IceCream0910/kw-klas-plus" target="_blank" width="100%"><img src="https://i.imgur.com/ElXtYhA.png"></a>
-<a href="https://github.com/IceCream0910/kw-klas-plus-webview" target="_blank" width="100%"><img src="https://i.imgur.com/vW6W5yC.png"></a>
-
-<a href="https://github.com/IceCream0910/radio-web" target="_blank" width="100%"><img src="https://i.imgur.com/Onsm0av.png"></a>
-
-<a href="https://github.com/IceCream0910/ssoak" target="_blank" width="100%"><img src="https://i.imgur.com/W8MM4y1.png"></a>
-
-[see more](https://yuntae.in/#projects)
+[see my projects](https://yuntae.in/#projects)
 
 
 <br/>
